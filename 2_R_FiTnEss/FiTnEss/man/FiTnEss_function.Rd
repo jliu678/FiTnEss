@@ -1,5 +1,5 @@
-\name{FiTnEss_function}
-\alias{FiTnEss_function}
+\name{FiTnEss_Run}
+\alias{FiTnEss_Run}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{Run FiTnEss
 %%  ~~function to do ... ~~
