@@ -44,7 +44,7 @@ my_cvm(data_vector,"function",parameters,...)
 %% ~~objects to See Also as \code{\link{help}}, ~~~
 }
 \examples{
-my.cvm(data_vector,"jointfun",0.7,5,0.5,10)
+my.cvm(data_vector,"jointfun",0.7,5,0.5,10)}
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.
-}
+
