@@ -49,3 +49,4 @@ calcparafun("PA14",usable_tally,
             "/home/TnSeq/results/results.xlsx",rep_time=5)
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.
+  }
