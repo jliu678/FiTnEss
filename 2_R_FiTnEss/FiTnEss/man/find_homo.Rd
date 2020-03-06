@@ -45,4 +45,3 @@ find_homo("/home/TnSeq/data/test_data/PA14_M9_rep1_tally.txt",
           "/home/TnSeq/data/test_data/homologous_TA_sites.txt")
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.
-\keyword{ ~homologous }

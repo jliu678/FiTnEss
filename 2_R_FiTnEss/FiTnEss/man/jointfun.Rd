@@ -47,4 +47,3 @@ jointfun(data_input,lambda,lp,sigma,nta)
 jointfun(data_vector,0.7,5,0,5,10)
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.
-\keyword{ ~fit_distribution }

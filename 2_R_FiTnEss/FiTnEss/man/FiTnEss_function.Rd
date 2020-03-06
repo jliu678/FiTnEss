@@ -71,4 +71,3 @@ FiTnEss_Run("UCBPP",
             repeat_time = 3)
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.
-\keyword{ ~FiTnEss_Run }
