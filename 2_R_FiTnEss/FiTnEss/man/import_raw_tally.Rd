@@ -45,3 +45,4 @@ import_raw_tally("/home/TnSeq/data/test_data/PA14_M9_rep1_tally.txt",
                  CIA = TRUE)
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.
+  }
