@@ -47,4 +47,3 @@ my_cvm(data_vector,"function",parameters,...)
 my.cvm(data_vector,"jointfun",0.7,5,0.5,10)}
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.
-
