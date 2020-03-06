@@ -59,4 +59,3 @@ own_data<-tallyprepfun("CF77","/folder1/CF77_rep1.txt,/folder1/CF77_rep2.txt,/fo
 }
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.
-}
